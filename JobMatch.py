@@ -13,13 +13,16 @@ import os
 # loading variables from .env file
 load_dotenv()
 
+# authenticate mistral client
+mistral = os.getenv("MISTRAL_API_KEY")
+
 # read resumes as list
 resumes = []
 for file in os.listdir("resumes-directory"):
   file_path = os.path.join("resumes-directory", file)
   resumes.append(PdfReader(file_path))
 
-# extract the text in all the resumes and place in batches of 2
+# extract the text in all the resumes and place in batches of 2 resumes to create 5 batches in all
 resumes_text = []
 for resume in resumes:
   resumes_text.append(resume.pages[0].extract_text())
@@ -27,14 +30,14 @@ for resume in resumes:
 resume_batches = np.array_split(resumes_text, len(resumes_text) // 2)
 resume_batches = [list(resume) for resume in resume_batches]
 
+# select first batch
+batch_1 = resume_batches[0]
+
 # load job description
 job = open("Job.txt", "r").read()
 
 # match and rank resumes using Mistral AI
 model = "mistral-large-latest"
-
-# authenticate mistral client
-mistral = os.getenv("MISTRAL_API_KEY")
 
 # create user role and message
 messages = [
