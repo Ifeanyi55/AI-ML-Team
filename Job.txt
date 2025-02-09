@@ -1,0 +1,43 @@
+Job Title: Full-Stack Software Developer
+
+Location: Remote (Global)
+
+Company: Quantum Nexus Technologies
+
+About Us:
+Quantum Nexus Technologies is a cutting-edge AI and software solutions company focused on revolutionizing the way businesses interact with data. Our team thrives on innovation, collaboration, and building scalable, high-performance applications. We are looking for a skilled and motivated Full-Stack Software Developer to join our dynamic team.
+
+Job Responsibilities:
+
+Design, develop, and maintain scalable web applications using JavaScript (Node.js, React, or Vue.js)
+Collaborate with UX/UI designers to create user-friendly and visually appealing interfaces
+Develop and optimize backend services, APIs, and databases using PostgreSQL, MongoDB, or Firebase
+Write efficient, reusable, and well-documented code following best practices
+Implement and manage cloud-based deployments using AWS, Azure, or Google Cloud
+Work with DevOps tools like Docker, Kubernetes, and GitHub Actions for CI/CD automation
+Debug, test, and troubleshoot applications to ensure security and performance
+Stay updated with emerging technologies and propose innovative solutions
+Required Skills & Qualifications:
+
+3+ years of experience in full-stack development
+Proficiency in JavaScript (ES6+), TypeScript, or Python
+Experience with front-end frameworks like React, Vue.js, or Angular
+Strong knowledge of backend development with Node.js, Express, or Django
+Familiarity with relational and non-relational databases (PostgreSQL, MySQL, MongoDB)
+Hands-on experience with RESTful APIs, GraphQL, and microservices architecture
+Version control using Git and GitHub/GitLab
+Strong problem-solving and analytical skills
+Nice-to-Have:
+
+Experience with Web3 technologies and blockchain development
+Knowledge of AI/ML frameworks like TensorFlow or PyTorch
+Experience with serverless architectures (AWS Lambda, Firebase Functions)
+Perks & Benefits:
+
+Competitive salary based on experience
+Flexible working hours
+Remote work with an option for coworking space stipend
+Health & wellness benefits
+Learning & development budget for courses and certifications
+Annual company retreats
+If you’re passionate about building world-class software and working in a fast-paced, collaborative environment, apply now and be part of our innovation-driven team!
