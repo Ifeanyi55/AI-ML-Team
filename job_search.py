@@ -100,23 +100,23 @@ def vector_search(user_profile_embedding, user_experience, job_descriptions, top
     # Return top-k results
     return scored_jobs[:top_k]
 
-# Example usage
+
 if __name__ == "__main__":
-    # Define the user profile (embedded in the system)
+    # Defining the user profile, an example(this will be embedded in the system)
     user_profile = "machine learning, Python, data analysis, and cloud computing"
     user_experience = 4  # Example: User has 4 years of experience
 
-    # Generate embedding for the user profile
+    # Generate embedding for this user profile
     user_profile_embedding = generate_embedding(user_profile)
 
-    # Load job descriptions from a text file
+    # Loading  job descriptions from the text file
     with open("job_descriptions.txt", "r", encoding="utf-8") as file:
         job_descriptions = file.read().split("///")  # Split job descriptions by "///"
 
     # Perform vector search
     recommendations = vector_search(user_profile_embedding, user_experience, job_descriptions)
 
-    # Print recommendations
+    # Printing recommendations
     print("\nTop job recommendations based on your profile:")
     for i, (job_title, company_name, score) in enumerate(recommendations, start=1):
         print(f"{i}. {job_title} at {company_name} (Suitability: {score:.2f}%)")
