@@ -1,0 +1,80 @@
+**Job Title**: Machine Learning Engineer  
+**Company**: Neural Dynamics Labs  
+**Location**: Remote (Global)  
+
+**Job Responsibilities**:  
+- Design, develop, and deploy machine learning models for various applications  
+- Work with large-scale datasets, ensuring data integrity and preprocessing for training  
+- Optimize ML models for performance, scalability, and efficiency  
+- Research and implement state-of-the-art ML algorithms, including deep learning architectures 
+
+**Required Skills & Qualifications:**  
+- 3+ years of experience in machine learning and data science  
+- Strong programming skills in Python, TensorFlow, PyTorch, or Scikit-learn  
+- Understanding of cloud platforms and distributed computing  
+
+
+////
+
+**Job Title:** Computer Vision Engineer  
+**Company:** VisionTech AI  
+**Location:** San Francisco, CA  
+
+**Job Responsibilities:**  
+- Develop and implement deep learning models for image recognition and video analysis  
+- Optimize computer vision algorithms for real-time performance  
+- Collaborate with software engineers to integrate vision models into applications  
+
+**Required Skills & Qualifications:**  
+- 2+ years of experience in computer vision and deep learning  
+- Expertise in OpenCV, TensorFlow, and PyTorch  
+- Experience working with edge AI and embedded systems  
+
+///
+
+**Job Title:** NLP Research Scientist  
+**Company:** Lingua AI  
+**Location:** New York, NY 
+
+**Job Responsibilities:**  
+- Research and develop state-of-the-art NLP models for text processing and conversational AI  
+- Work with transformer-based architectures like BERT, GPT, and T5  
+- Deploy NLP models in production environments at scale  
+
+**Required Skills & Qualifications:**  
+- PhD or Master’s in NLP, Machine Learning, or related field  
+- Strong knowledge of language models and deep learning  
+- Experience in training and fine-tuning transformer-based models  
+
+///
+
+**Job Title:** AI Ethics Researcher  
+**Company:** FairAI Labs  
+**Location:** London, UK  
+
+**Job Responsibilities:**  
+- Conduct research on bias, fairness, and explainability in AI systems  
+- Develop frameworks for ethical AI model deployment  
+- Collaborate with policy teams to define AI governance standards  
+
+**Required Skills & Qualifications:**  
+- Background in AI ethics, philosophy, or computer science  
+- Experience working with fairness-aware machine learning  
+- Strong analytical and research skills  
+
+///
+
+**Job Title:** Robotics Software Engineer  
+**Company:** AutomateNow Robotics  
+**Location:** Berlin, Germany  
+
+**Job Responsibilities:**  
+- Develop and implement AI-driven control algorithms for robotic systems  
+- Integrate machine learning with robotics perception and planning modules  
+- Work with ROS and real-time control systems  
+
+**Required Skills & Qualifications:**  
+- Strong proficiency in C++, Python, and ROS  
+- Experience in reinforcement learning for robotics  
+- Understanding of motion planning and sensor fusion
+
